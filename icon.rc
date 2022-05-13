@@ -1,0 +1,2 @@
+set(APP_ICON_RESOURCE_WINDOWS "${CMAKE_CURRENT_SOURCE_DIR}/qt5app.rc")
+add_executable(qt5app main.cpp ${APP_ICON_RESOURCE_WINDOWS})

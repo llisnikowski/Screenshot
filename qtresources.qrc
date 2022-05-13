@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+         <file>icons/index.theme</file>
+        <file>icons/myIcon32.ico</file>
+    </qresource>
+</RCC>

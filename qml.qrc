@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>SelectRect.qml</file>
+        <file>DrawerExtension.qml</file>
+        <file>DrawerOption.qml</file>
+    </qresource>
+</RCC>
